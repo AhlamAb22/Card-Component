@@ -50,12 +50,12 @@ p {
 }
 
 .container img {
-  max-width: 50%;
+  max-width: 19rem;
 }
 
 .text-part {
   margin: 15px;
-  max-width: 40%;
+  max-width: 15rem;
   display: flex;
   flex-direction: column;
 }
